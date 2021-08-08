@@ -5,5 +5,7 @@ Construido sobre PHP 7.4 y bootstrap 4. usando framework Slim para el soporte de
 Instalar
 
 git clone https://github.com/Betis-Jesuli/webpages-php
+
 cd webpages-php
+
 composer install
